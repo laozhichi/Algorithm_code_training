@@ -1,4 +1,4 @@
-/*题目描述转到leetcode博客：https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/*/
+题目描述转到leetcode博客：https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/
 /*源码如下*/
 /**
  * @param {number[]} nums
